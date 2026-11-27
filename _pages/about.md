@@ -5,15 +5,15 @@ title: About me
 author_profile: true
 ---
 
-I'm Junteng Liu, a first-year Ph.D. candidate in the HKUST NLP Group. I work with Professor Junxian He, who also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU).
+I'm Junteng Liu, a first-year Ph.D. candidate in the HKUST NLP Group. My Ph.D. supervisor, Professor Junxian He, also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU).
 
 ## Research skills and interests
 
-My research focuses on natural language processing and machine learning. I study three questions:
+My research focuses on natural language processing and machine learning. I'm interested in:
 
-- How can reinforcement learning help large language models (LLMs) reason?
-- When do vision-language models (VLMs) hallucinate?
-- How can we interpret what happens inside an LLM to understand its truthfulness?
+- Reasoning in large language models (LLMs) and reinforcement learning.
+- Hallucination in vision-language models (VLMs).
+- Truthfulness and interpretability in LLMs.
 
 ## Education
 
@@ -22,11 +22,9 @@ My research focuses on natural language processing and machine learning. I study
 
 ## Research experience
 
-| Institution | Role | Period | Advisor |
-| :--- | :--- | :--- | :--- |
-| MINIMAX | Research Intern | February 2025–present | |
-| Tencent WXG | Research Intern | June 2024–September 2024 | Zifei Shan |
-| Shanghai AI Lab | Research Intern | June 2023–December 2023 | Professor Yu Cheng |
+- **MINIMAX** — Research Intern, February 2025–present.
+- **Tencent WXG** — Research Intern, June 2024–September 2024. Advisor: Zifei Shan.
+- **Shanghai AI Lab** — Research Intern, June 2023–December 2023. Advisor: Professor Yu Cheng.
 
 ## Publications
 
